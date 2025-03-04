@@ -1,4 +1,10 @@
-![ProfileBanner](https://news.aperza.jp/wp-content/uploads/2018/08/24170949/JRW_key_image1280x424.png)
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/advancements-artificial-intelligence-machine-learning-are-transforming-agriculture-farming_90099-10816.jpg" 
+       alt="Profile Banner" 
+       width="1280" 
+       height="324" 
+       style="object-fit: cover; border-radius: 10px;">
+</p>
 <h1 align="center"><b>Hi , I'm Eiver Obando </b><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXF1bWs5cjR6N2k0MmNuNGFxdzAwNXZsZTUwZGlsMHowOTMxaHJnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q3kBTEbu3InMQ/giphy.gif" width="80"></h1>
 <h3 align="center">Engeneering | Data Science | Machine Learning</h3>
 
